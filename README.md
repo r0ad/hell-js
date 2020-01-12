@@ -1,4 +1,4 @@
-# hell-js
+# hell0, js !
 a web base demo, just for fun.
 
 # tools
