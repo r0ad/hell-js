@@ -1,4 +1,4 @@
-# hell0, js !
+# hello, js !
 a web base demo, just for fun.
 
 # tools
