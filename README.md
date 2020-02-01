@@ -1,8 +1,11 @@
-# hello, js !
-a web base demo, just for fun.
+# hello, web
 
-# tools
-- requirejs https://requirejs.org/
-- Underscore https://underscorejs.org/
-- TmodJS https://github.com/aui/tmodjs
+## intro
 
+A web base demo to collect and exercise for personal.
+
+Just for fun !
+
+## technic
+
+With a brower, this project can work. 
